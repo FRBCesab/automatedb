@@ -1,0 +1,11 @@
+^automatedb\.Rproj$
+^\.Rproj\.user$
+^\.DS_Store$
+^LICENSE\.md$
+^analyses$
+^database$
+^raw-data$
+^template$
+^make\.R$
+^README\.Rmd$
+^README\.html$
